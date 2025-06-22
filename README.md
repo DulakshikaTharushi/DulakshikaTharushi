@@ -1,9 +1,7 @@
 # 👩‍💻 Tharushi Dulakshika — Software Engineering Undergraduate
 
 Hey there! 👋  
-I'm **Tharushi Dulakshika** — a curious mind, a code enthusiast, and a second-year Software Engineering undergraduate at NIBM.  
-I thrive on solving real-world problems with code, and I find joy in bridging the gap between creativity and technology.  
-Robotics and IoT are my playgrounds; innovation is my fuel.
+I'm **Tharushi Dulakshika** —I am a second-year undergraduate at the National Institute of Business Management, specializing in software engineering. My interests span full-stack development, robotics, and IoT. I am proficient in technologies such as REST APIs, React, Spring Boot, JavaScript, C#, C, Java, and C++. I have contributed to several projects, both independently and collaboratively, demonstrating strong problem-solving and teamwork skills.
 
 ---
 
