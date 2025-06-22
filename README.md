@@ -1,16 +1,29 @@
-## Hi there 👋
+👩‍💻 Tharushi Dulakshika — Software Engineering Undergraduate
+Hi there 👋 I'm Tharushi Dulakshika, a passionate second-year Software Engineering undergraduate at NIBM. I love building applications that solve real-world problems and exploring innovative technologies like robotics and IoT.
 
-<!--
-**DulakshikaTharushi/DulakshikaTharushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Skills:
 
-Here are some ideas to get you started:
+Languages: Java, C++, C, JavaScript, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks: React, Spring Boot, .NET (Windows Forms)
+
+Tools: Git, Oracle Database, Arduino
+
+Concepts: RESTful APIs, Full-stack development, Embedded Systems
+
+🚀 Projects:
+
+🌐 Urban Food E-Commerce Platform
+A full-stack web application for urban farmers and consumers built with React + Spring Boot + Oracle. Includes secure authentication and real-time order tracking.
+
+🤖 Conveyor Belt with Robot Arm
+Arduino-controlled robotic module for object sorting using C++. Integrated sensors and servos for automation.
+
+🧊 Air Conditioning Contract Company Management System
+Developed in C# using Windows Forms to manage clients, contracts, and service schedules for a local company.
+
+📫 Contact Me:
+
+Email: dulakshikatharushi2003@gmail.com
+
+GitHub: https://github.com/DulakshikaTharushi
